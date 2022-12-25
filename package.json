@@ -1,0 +1,23 @@
+{
+  "name": "real-time-chat--application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Navdeep0052/Real-time-chat--application.git"
+  },
+  "author": "Navii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Navdeep0052/Real-time-chat--application/issues"
+  },
+  "homepage": "https://github.com/Navdeep0052/Real-time-chat--application#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20",
+    "socket.io": "^4.5.4"
+  }
+}
